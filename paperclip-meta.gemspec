@@ -27,5 +27,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency "sqlite3-ruby"
 
   # Runtime dependencies
-  s.add_runtime_dependency "paperclip"
+  s.add_runtime_dependency "paperclip", "~> 3.5.4"
 end
